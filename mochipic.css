@@ -1,0 +1,23 @@
+.hinhanhchimo {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+
+
+} 
+
+.hinhanhchimo img {
+    width: 22%;
+    height: 200px;
+    margin: 10px;
+    border-radius: 15px;
+    box-sizing:border-box;
+}
+
+.hinhanhmochi {
+margin: 100px;
+
+
+
+}
