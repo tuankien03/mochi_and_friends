@@ -15,7 +15,7 @@ footer {
 }
 
 main {
-  text-align: center;
+  text-align: left;
   padding: 5vmin;
   flex: 1 0 auto;
 }
@@ -81,3 +81,4 @@ textarea {
 [type="submit"]:hover {
   background: #3586ff;
 }
+
